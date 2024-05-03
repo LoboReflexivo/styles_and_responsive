@@ -7,7 +7,7 @@ function SidebarComponent() {
       <ul className={Styles.sidebar_menu}>
         <li className={Styles.sidebar_menu_item}>
           <a href="" className={`${Styles.sidebar_menu_item_link} active`}>
-            Las mejores
+            Edimburgh
           </a>
         </li>
         <li className={Styles.sidebar_menu_item}>
@@ -22,12 +22,12 @@ function SidebarComponent() {
         </li>
         <li className={Styles.sidebar_menu_item}>
           <a href="" className={Styles.sidebar_menu_item_link}>
-            Sol y playa
+            Lemon
           </a>
         </li>
         <li className={Styles.sidebar_menu_item}>
           <a href="" className={Styles.sidebar_menu_item_link}>
-            Los Montes
+            Amalfi
           </a>
         </li>
       </ul>

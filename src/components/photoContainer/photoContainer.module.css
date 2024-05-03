@@ -6,6 +6,7 @@
   -webkit-column-gap: 10px;
   -moz-column-gap: 10px;
   column-gap: 10px;
+  padding: 10px;
 }
 
 .photo_link {
